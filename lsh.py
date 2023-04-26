@@ -64,16 +64,10 @@ os.system("apt install auditd")
 os.system("systemctl enable auditd")
 os.system("systemctl start auditd")
 
-# 16. Perform regular backups (Configure as needed)
-# os.system("...")
 
-# 17. Restricting use of previous passwords (Already done in step 11)
-
-# 18. Monitor listening network ports
+# 16. Monitor listening network ports
 os.system("apt install net-tools")
 os.system("netstat -tuln")
 
-# 19. Separate disk partitions for Linux system (Requires manual configuration)
-# os.system("...")
 
 print("Linux server sıkılaştırma işlemi tamamlandı.")
