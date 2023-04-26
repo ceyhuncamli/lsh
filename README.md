@@ -1,6 +1,6 @@
 
-Linux Server Hardening
-# lsh
+# Temel Düzeyde Linux Server Sıkılaştırması
+
 
 Bu script Linux sunucunuzu sıkılaştırmak için kullanılabilir.
 Scripti çalıştırmadan önce, kullanıcı adı ve parolayı değiştirmeyi unutmayın.
